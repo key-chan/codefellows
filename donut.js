@@ -1,3 +1,5 @@
+//this was hard as hell
+
 //template for objects that are donut shops
 function donutShop(hours, location, minimum, maximum, donuts) {
     this.hours = hours;
