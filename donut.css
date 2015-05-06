@@ -1,0 +1,67 @@
+html {
+  background: -webkit-linear-gradient(#cdb79e, #ffffff); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#cdb79e, #ffffff); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#cdb79e, #ffffff); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#cdb79e, #ffffff); /* Standard syntax (must be last) */
+  height: 100%;
+  background-size: cover;
+}
+#wrapper {
+  max-width: 900px;
+  background-color: #ffffff;
+  border-radius: 30px;
+  margin: 0 auto;
+  padding: 20px;
+}
+header {
+  font-family: 'Cabin Sketch';
+  background-color: #e1d0e9;
+  max-width: 850px;
+  text-align: center;
+  padding: 20px;
+  border-radius: 20px;
+  margin: 0 auto;
+  border-color: white;
+  border-width: 20px;
+}
+h2 {
+  font-family: 'Cabin Sketch';
+  text-align: center;
+}
+section {
+  font-family: 'PT Sans', sans-serif;
+  background-color: #ffffff;
+  border-radius: 30px;
+  padding: 20px;
+  max-width: 900px;
+}
+table {
+  margin: 0 auto;
+}
+thead {
+  font-weight: bold;
+}
+td, th {
+  border: 1px solid #999;
+  padding: 0.5rem;
+}
+footer {
+  font-family: 'PT Sans', sans-serif;
+  background-color: #e1d0e9;
+  max-width: 850px;
+  margin: 0 auto;
+  padding: 5px;
+  border-radius: 20px;
+  text-align: center;
+  color: #000000;
+  text-decoration: none;
+}
+footer li {
+  text-align: center;
+  margin: 0 auto;
+}
+footer ul li {
+  display: inline;
+  margin: 0 auto;
+  padding-right: 10px;
+}
